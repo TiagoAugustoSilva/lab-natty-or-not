@@ -10,7 +10,7 @@
 ```markdown
 # Introdução às IA Generativas
 ## 📒 Descrição
-Breve descrição do seu projeto
+
 
 Primeiras Redes Neurais
 
