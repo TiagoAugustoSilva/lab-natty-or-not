@@ -2,6 +2,8 @@
 
 ## 🚀 Introdução
 
+![ALT Text](img/tela-img-civic.png)
+
 
 ### Template
 
