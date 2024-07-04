@@ -2,7 +2,7 @@
 
 ## 🚀 Introdução
 
-![ALT Text](img/tela-img-civic.png)
+![ALT Text](imagem/IA.png)
 
 
 ### Template
