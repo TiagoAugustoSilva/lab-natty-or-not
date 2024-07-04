@@ -2,7 +2,7 @@
 
 ## 🚀 Introdução
 
-![ALT Text](Imagem/IA.png)
+![ALT Text](exemplos/IA.png)
 
 
 ### Template
